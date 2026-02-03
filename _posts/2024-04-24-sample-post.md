@@ -1,7 +1,7 @@
 ---
 title: Snake Game
 layout: post
-post-image: /assets/images/snake_pygame.png
+post-image: ../assets/images/snake_pygame.png
 image_fit: contain
 description: A guided snake game tutorial in Python.
 tags:
