@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'https://fjnn.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: /gizematesvenaas
 
 # Title of the Site
 title: Gizem Ateş Venås
@@ -30,10 +30,10 @@ google-analytics: UA-163806439-1
 # Name of the Author
 author-name: Gizem
 # URL for the Image of the Author
-author-image: /assets/images/profile.png
+author-image: https://fjnn.github.io/gizematesvenaas/assets/images/profile.png
 
 # 60 Words About the Author
-author-about: I like robots. I am a researcher.
+author-about: I am a researcher. I like robots.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/fjnn
 
